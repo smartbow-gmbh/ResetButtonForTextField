@@ -1,6 +1,6 @@
-package org.vaadin.resetbuttonfortextfield.client;
+package org.vaadin.addons.resetbuttonfortextfield.client;
 
-import org.vaadin.resetbuttonfortextfield.ResetButtonForTextField;
+import org.vaadin.addons.resetbuttonfortextfield.ResetButtonForTextField;
 
 import com.google.gwt.core.client.Scheduler;
 import com.google.gwt.core.client.Scheduler.ScheduledCommand;
@@ -15,7 +15,7 @@ import com.vaadin.client.ServerConnector;
 import com.vaadin.client.communication.RpcProxy;
 import com.vaadin.client.communication.StateChangeEvent;
 import com.vaadin.client.extensions.AbstractExtensionConnector;
-import com.vaadin.client.ui.VTextField;
+import com.vaadin.v7.client.ui.VTextField;
 import com.vaadin.shared.ui.Connect;
 
 @Connect(ResetButtonForTextField.class)
@@ -61,7 +61,7 @@ public class ResetButtonForTextFieldConnector extends
     /*-{
         var self = this;
         el.onclick = $entry(function () {
-            self.@org.vaadin.resetbuttonfortextfield.client.ResetButtonForTextFieldConnector::clearTextField()();
+            self.@org.vaadin.addons.resetbuttonfortextfield.client.ResetButtonForTextFieldConnector::clearTextField()();
         });
     }-*/;
 

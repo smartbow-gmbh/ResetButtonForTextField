@@ -1,4 +1,4 @@
-package org.vaadin.resetbuttonfortextfield.client;
+package org.vaadin.addons.resetbuttonfortextfield.client;
 
 import com.vaadin.shared.communication.ServerRpc;
 

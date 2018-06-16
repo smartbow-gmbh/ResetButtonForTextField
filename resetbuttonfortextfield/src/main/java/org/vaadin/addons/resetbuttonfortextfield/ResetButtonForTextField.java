@@ -1,13 +1,14 @@
-package org.vaadin.resetbuttonfortextfield;
+package org.vaadin.addons.resetbuttonfortextfield;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import org.vaadin.resetbuttonfortextfield.client.ResetButtonClickRpc;
+import org.vaadin.addons.resetbuttonfortextfield.client.ResetButtonClickRpc;
 
 import com.vaadin.server.AbstractClientConnector;
 import com.vaadin.server.AbstractExtension;
-import com.vaadin.ui.TextField;
+import com.vaadin.v7.ui.TextField;
+
 
 public class ResetButtonForTextField extends AbstractExtension {
     private final List<ResetButtonClickListener> listeners = new ArrayList<ResetButtonClickListener>();

@@ -1,4 +1,4 @@
-package org.vaadin.resetbuttonfortextfield;
+package org.vaadin.addons.resetbuttonfortextfield;
 
 import java.io.Serializable;
 
