@@ -20,6 +20,8 @@ import com.vaadin.v7.event.FieldEvents;
 import com.vaadin.v7.ui.Label;
 import com.vaadin.v7.ui.TextField;
 
+
+
 @Theme("valo")
 @Title("Reset Button for TextField Extension Demo")
 public class DemoUI extends UI {
