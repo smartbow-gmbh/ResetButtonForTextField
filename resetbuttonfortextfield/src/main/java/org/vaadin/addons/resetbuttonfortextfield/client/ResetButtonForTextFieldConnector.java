@@ -15,8 +15,8 @@ import com.vaadin.client.ServerConnector;
 import com.vaadin.client.communication.RpcProxy;
 import com.vaadin.client.communication.StateChangeEvent;
 import com.vaadin.client.extensions.AbstractExtensionConnector;
-import com.vaadin.v7.client.ui.VTextField;
 import com.vaadin.shared.ui.Connect;
+import com.vaadin.v7.client.ui.VTextField;
 
 @Connect(ResetButtonForTextField.class)
 public class ResetButtonForTextFieldConnector extends
