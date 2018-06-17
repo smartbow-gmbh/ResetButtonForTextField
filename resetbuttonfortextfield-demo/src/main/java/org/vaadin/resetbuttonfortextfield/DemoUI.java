@@ -25,6 +25,7 @@ import com.vaadin.v7.ui.TextField;
 @Theme("valo")
 @Title("Reset Button for TextField Extension Demo")
 public class DemoUI extends UI {
+	
 
     @WebServlet(value = "/*", asyncSupported = true)
     @VaadinServletConfiguration(productionMode = false, ui = DemoUI.class, widgetset = "org.vaadin.resetbuttonfortextfield.DemoWidgetSet")
