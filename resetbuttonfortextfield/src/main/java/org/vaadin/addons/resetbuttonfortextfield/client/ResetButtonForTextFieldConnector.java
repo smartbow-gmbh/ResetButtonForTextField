@@ -16,7 +16,7 @@ import com.vaadin.client.communication.RpcProxy;
 import com.vaadin.client.communication.StateChangeEvent;
 import com.vaadin.client.extensions.AbstractExtensionConnector;
 import com.vaadin.shared.ui.Connect;
-import com.vaadin.v7.client.ui.VTextField;
+import com.vaadin.client.ui.VTextField;
 
 @Connect(ResetButtonForTextField.class)
 public class ResetButtonForTextFieldConnector extends
@@ -104,7 +104,6 @@ public class ResetButtonForTextFieldConnector extends
     private void clearTextField() {
         resetButtonClickRpc.resetButtonClick();
         textField.setValue("");
-        textField.valueChange(true);
         updateResetButtonVisibility();
         textField.getElement().focus();
     }

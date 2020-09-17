@@ -7,7 +7,7 @@ import org.vaadin.addons.resetbuttonfortextfield.client.ResetButtonClickRpc;
 
 import com.vaadin.server.AbstractClientConnector;
 import com.vaadin.server.AbstractExtension;
-import com.vaadin.v7.ui.TextField;
+import com.vaadin.ui.TextField;
 
 
 public class ResetButtonForTextField extends AbstractExtension {
