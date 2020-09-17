@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -9,36 +7,37 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16px"
-   height="16px"
-   id="svg2985"
-   version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="resetbutton-default.svg"
-   inkscape:export-filename="C:\Users\Tapio\Desktop\resetbutton-default.png"
+   inkscape:export-ydpi="90"
    inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-filename="C:\Users\Tapio\Desktop\resetbutton-default.png"
+   sodipodi:docname="resetbutton-green.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   version="1.1"
+   id="svg2985"
+   height="16px"
+   width="16px">
   <defs
      id="defs2987" />
   <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="22.197802"
-     inkscape:cx="18.866323"
-     inkscape:cy="15.242853"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     inkscape:grid-bbox="true"
-     inkscape:document-units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1148"
-     inkscape:window-x="-8"
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="1"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     showgrid="true"
+     inkscape:current-layer="layer1"
+     inkscape:cy="15.242853"
+     inkscape:cx="18.866323"
+     inkscape:zoom="22.197802"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
   <metadata
      id="metadata2990">
     <rdf:RDF>
@@ -52,27 +51,27 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:groupmode="layer"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     id="layer1">
     <path
-       sodipodi:type="arc"
-       style="fill:#c3c3c3;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="path2993"
-       sodipodi:cx="7.6584158"
-       sodipodi:cy="7.5757427"
-       sodipodi:rx="7.6584158"
-       sodipodi:ry="7.6133666"
+       transform="matrix(1.0367401,0,0,1.0399162,0.06021324,0.12186242)"
        d="m 15.316832,7.5757427 a 7.6584158,7.6133666 0 1 1 -15.316832,0 7.6584158,7.6133666 0 1 1 15.316832,0 z"
-       transform="matrix(1.0367401,0,0,1.0399162,0.06021324,0.12186242)" />
+       sodipodi:ry="7.6133666"
+       sodipodi:rx="7.6584158"
+       sodipodi:cy="7.5757427"
+       sodipodi:cx="7.6584158"
+       id="path2993"
+       style="fill:#63b32e;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       sodipodi:type="arc" />
     <g
-       transform="scale(1.0379422,0.96344479)"
+       id="text3771"
        style="font-size:19.88338661px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       id="text3771">
+       transform="scale(1.0379422,0.96344479)">
       <path
-         d="M 2.9891374,11.254978 5.9211602,8.3229549 2.96972,5.3812234 4.7755354,3.575408 7.7269756,6.5171395 10.658998,3.5851167 12.41627,5.3520973 9.4842476,8.2841202 12.445396,11.245269 10.639581,13.051084 7.6784322,10.089936 4.7464094,13.021958 z"
+         id="path3787"
          style=""
-         id="path3787" />
+         d="M 2.9891374,11.254978 5.9211602,8.3229549 2.96972,5.3812234 4.7755354,3.575408 7.7269756,6.5171395 10.658998,3.5851167 12.41627,5.3520973 9.4842476,8.2841202 12.445396,11.245269 10.639581,13.051084 7.6784322,10.089936 4.7464094,13.021958 z" />
     </g>
   </g>
 </svg>
